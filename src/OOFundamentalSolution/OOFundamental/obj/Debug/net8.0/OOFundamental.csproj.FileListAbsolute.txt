@@ -1,0 +1,14 @@
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\bin\Debug\net8.0\OOFundamental.exe
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\bin\Debug\net8.0\OOFundamental.deps.json
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\bin\Debug\net8.0\OOFundamental.runtimeconfig.json
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\bin\Debug\net8.0\OOFundamental.dll
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\bin\Debug\net8.0\OOFundamental.pdb
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\obj\Debug\net8.0\OOFundamental.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\obj\Debug\net8.0\OOFundamental.AssemblyInfoInputs.cache
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\obj\Debug\net8.0\OOFundamental.AssemblyInfo.cs
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\obj\Debug\net8.0\OOFundamental.csproj.CoreCompileInputs.cache
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\obj\Debug\net8.0\OOFundamental.dll
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\obj\Debug\net8.0\refint\OOFundamental.dll
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\obj\Debug\net8.0\OOFundamental.pdb
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\obj\Debug\net8.0\OOFundamental.genruntimeconfig.cache
+D:\Software Documents\My Course\課程教材\設計模式\著書\Codes\OOFundamentalSolution\OOFundamental\obj\Debug\net8.0\ref\OOFundamental.dll

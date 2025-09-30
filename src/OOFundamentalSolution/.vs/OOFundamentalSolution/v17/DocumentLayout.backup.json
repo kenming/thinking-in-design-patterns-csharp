@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|d:\\software documents\\my course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\codes\\oofundamentalsolution\\oofundamental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|solutionrelative:oofundamental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|d:\\software documents\\my course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\codes\\oofundamentalsolution\\oofundamental\\3.generalization-specialization\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|solutionrelative:oofundamental\\3.generalization-specialization\\carfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|d:\\software documents\\my course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\codes\\oofundamentalsolution\\oofundamental\\3.generalization-specialization\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|solutionrelative:oofundamental\\3.generalization-specialization\\tank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|d:\\software documents\\my course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\codes\\oofundamentalsolution\\oofundamental\\3.generalization-specialization\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|solutionrelative:oofundamental\\3.generalization-specialization\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|d:\\software documents\\my course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\codes\\oofundamentalsolution\\oofundamental\\3.generalization-specialization\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|solutionrelative:oofundamental\\3.generalization-specialization\\sedan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|d:\\software documents\\my course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\codes\\oofundamentalsolution\\oofundamental\\3.generalization-specialization\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|solutionrelative:oofundamental\\3.generalization-specialization\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|d:\\software documents\\my course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\codes\\oofundamentalsolution\\oofundamental\\2.whole-parts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|solutionrelative:oofundamental\\2.whole-parts\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|d:\\software documents\\my course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\codes\\oofundamentalsolution\\oofundamental\\2.whole-parts\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F842EC99-5E31-4028-8C64-9D1002D87957}|OOFundamental\\OOFundamental.csproj|solutionrelative:oofundamental\\2.whole-parts\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarFactory.cs",
+              "DocumentMoniker": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\3.Generalization-Specialization\\CarFactory.cs",
+              "RelativeDocumentMoniker": "OOFundamental\\3.Generalization-Specialization\\CarFactory.cs",
+              "ToolTip": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\3.Generalization-Specialization\\CarFactory.cs",
+              "RelativeToolTip": "OOFundamental\\3.Generalization-Specialization\\CarFactory.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAmwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:23:41.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tank.cs",
+              "DocumentMoniker": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\3.Generalization-Specialization\\Tank.cs",
+              "RelativeDocumentMoniker": "OOFundamental\\3.Generalization-Specialization\\Tank.cs",
+              "ToolTip": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\3.Generalization-Specialization\\Tank.cs",
+              "RelativeToolTip": "OOFundamental\\3.Generalization-Specialization\\Tank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:22:57.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\3.Generalization-Specialization\\Truck.cs",
+              "RelativeDocumentMoniker": "OOFundamental\\3.Generalization-Specialization\\Truck.cs",
+              "ToolTip": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\3.Generalization-Specialization\\Truck.cs",
+              "RelativeToolTip": "OOFundamental\\3.Generalization-Specialization\\Truck.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:22:20.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sedan.cs",
+              "DocumentMoniker": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\3.Generalization-Specialization\\Sedan.cs",
+              "RelativeDocumentMoniker": "OOFundamental\\3.Generalization-Specialization\\Sedan.cs",
+              "ToolTip": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\3.Generalization-Specialization\\Sedan.cs",
+              "RelativeToolTip": "OOFundamental\\3.Generalization-Specialization\\Sedan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T10:21:16.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\3.Generalization-Specialization\\Car.cs",
+              "RelativeDocumentMoniker": "OOFundamental\\3.Generalization-Specialization\\Car.cs",
+              "ToolTip": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\3.Generalization-Specialization\\Car.cs",
+              "RelativeToolTip": "OOFundamental\\3.Generalization-Specialization\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T09:49:22.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\2.Whole-parts\\Driver.cs",
+              "RelativeDocumentMoniker": "OOFundamental\\2.Whole-parts\\Driver.cs",
+              "ToolTip": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\2.Whole-parts\\Driver.cs",
+              "RelativeToolTip": "OOFundamental\\2.Whole-parts\\Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T05:22:37.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\2.Whole-parts\\Car.cs",
+              "RelativeDocumentMoniker": "OOFundamental\\2.Whole-parts\\Car.cs",
+              "ToolTip": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\2.Whole-parts\\Car.cs",
+              "RelativeToolTip": "OOFundamental\\2.Whole-parts\\Car.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T05:20:43.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\Program.cs",
+              "RelativeDocumentMoniker": "OOFundamental\\Program.cs",
+              "ToolTip": "D:\\Software Documents\\My Course\\\u8AB2\u7A0B\u6559\u6750\\\u8A2D\u8A08\u6A21\u5F0F\\\u8457\u66F8\\Codes\\OOFundamentalSolution\\OOFundamental\\Program.cs",
+              "RelativeToolTip": "OOFundamental\\Program.cs",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAAwNgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T14:02:15.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
