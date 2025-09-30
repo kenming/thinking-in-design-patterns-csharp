@@ -68,7 +68,7 @@ dotnet run
 2. 選擇 `File > Open > Project/Solution`，開啟 .sln 檔案
 4. 按下 `F5` 執行專案
 
-[👉 查看物件導向基礎範例執行說明](docs/README-ObjectFoundation.md)
+[👉 查看物件導向基礎範例執行說明](docs/README-ObjectFundamental.md)
 
 ### 🏗️ 設計模式完整範例
 
@@ -132,7 +132,7 @@ Kenming Wang
 - 部落格 (Blog) : [Kenming
 の鮮思維](https://www.kenming.idv.tw)
 - GitHub 主頁 : [https://github.com/kenming](https://github.com/kenming)
-- Line : [@kenming](https://line.me/ti/p/~kenming)
+- Line : [@kenming168](https://line.me/ti/p/~kenming168)
 - Linkedin : [@kenming](https://www.linkedin.com/in/kenming/)
 - Email : [kenming.wang@gmail.com](mailto:kenming.wang@gmail.com)
 
