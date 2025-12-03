@@ -16,7 +16,7 @@
             _items = new Dictionary<string, int>(items);
         }
 
-        // 取得儲存的狀態
+        // 取得儲存的狀態 - 返回深層拷貝保持封裝性
         public Dictionary<string, int> GetState()
         {
             return new Dictionary<string, int>(_items);

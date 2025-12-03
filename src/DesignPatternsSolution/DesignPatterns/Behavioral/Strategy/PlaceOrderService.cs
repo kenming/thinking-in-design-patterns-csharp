@@ -37,7 +37,7 @@ namespace Thinksoft.Patterns.Behavioral.Strategy
             else
             {
                 // 使用集中式的寫法
-                var centralizedContext = new Centratized.OrderContext();
+                var centralizedContext = new Centralized.OrderContext();
                 return centralizedContext.CalcOrderTotalPrice(orderModel);
             }
         }

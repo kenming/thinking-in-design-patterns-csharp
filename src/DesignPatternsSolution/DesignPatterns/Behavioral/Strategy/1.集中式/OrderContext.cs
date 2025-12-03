@@ -1,6 +1,6 @@
 ﻿using Thinksoft.Patterns.Behavioral.Strategy.Model;
 
-namespace Thinksoft.Patterns.Behavioral.Strategy.Centratized
+namespace Thinksoft.Patterns.Behavioral.Strategy.Centralized
 {
     /**
      * 集中式訂單處理上下文類別

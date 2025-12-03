@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# 忽略 Claude AI 產生的檔案
+**/CLAUDE.md

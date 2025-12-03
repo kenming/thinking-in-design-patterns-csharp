@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Software Documents\\My Course\\課程教材\\設計模式\\著書\\Codes\\OOFundamentalSolution\\OOFundamental\\OOFundamental.csproj",
+      "projectUniqueName": "E:\\GitRepo\\books\\thinking-in-design-patterns-csharp\\src\\OOFundamentalSolution\\OOFundamental\\OOFundamental.csproj",
       "projectName": "OOFundamental",
-      "projectPath": "D:\\Software Documents\\My Course\\課程教材\\設計模式\\著書\\Codes\\OOFundamentalSolution\\OOFundamental\\OOFundamental.csproj",
+      "projectPath": "E:\\GitRepo\\books\\thinking-in-design-patterns-csharp\\src\\OOFundamentalSolution\\OOFundamental\\OOFundamental.csproj",
       "packagesPath": "C:\\Users\\kenmi\\.nuget\\packages\\",
-      "outputPath": "D:\\Software Documents\\My Course\\課程教材\\設計模式\\著書\\Codes\\OOFundamentalSolution\\OOFundamental\\obj\\",
+      "outputPath": "E:\\GitRepo\\books\\thinking-in-design-patterns-csharp\\src\\OOFundamentalSolution\\OOFundamental\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
